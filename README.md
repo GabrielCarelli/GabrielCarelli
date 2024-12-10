@@ -5,8 +5,8 @@ Hi there! I'm Gabriel, a Front End Dev specializing in ReactJS. Welcome to my Gi
 
 ## 💻 Technologies & Tools
 
-- Languages: HTML, JavaScript, CSS
-- Frameworks: React, TypeScript
+- Languages: HTML, JavaScript, CSS, TypeScript
+- Frameworks: React, Node
 - Tools: Git
 
 ## 📈 Statistics
