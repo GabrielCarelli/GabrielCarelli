@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
@@ -41,7 +39,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielCarelli/GabrielCarelli/output/snake.svg" alt="Snake animation" />
 
 ###
